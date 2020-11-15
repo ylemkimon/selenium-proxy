@@ -1,0 +1,16 @@
+{
+  "name": "selenium-proxy",
+  "description": "Proxy Browserstack",
+  "license": "MIT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "prettier": "yarn dlx prettier --write server.js"
+  },
+  "dependencies": {
+    "browserstack-local": "^1.4.8",
+    "express": "^4.17.1",
+    "selenium-webdriver": "^3.6.0",
+    "uuid": "^8.3.1"
+  }
+}
