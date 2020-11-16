@@ -14,8 +14,8 @@
 #### Response
 ```json
 {
-    "id": session ID,
-    "capabilities": capabilities
+    "id": string,
+    "capabilities": object
 }
 ```
 
