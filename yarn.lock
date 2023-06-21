@@ -696,7 +696,7 @@ __metadata:
     browserstack-local: ^1.4.8
     express: ^4.17.1
     selenium-webdriver: ^3.6.0
-    uuid: ^8.3.1
+    uuid: ^9.0.0
   languageName: unknown
   linkType: soft
 
@@ -856,12 +856,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"uuid@npm:^8.3.1":
-  version: 8.3.1
-  resolution: "uuid@npm:8.3.1"
+"uuid@npm:^9.0.0":
+  version: 9.0.0
+  resolution: "uuid@npm:9.0.0"
   bin:
     uuid: dist/bin/uuid
-  checksum: 6a5d07c5564614271237d8bbc5c1c72abf056343e91af8f67a8e6d29957a1a061f347b8425a1e499af32f5a8f0039c44d200dff663b9a8090c51a7f7b5031534
+  checksum: 5a7f936a25dad15398521ae14412d70b278e1187f108f5c68c5af97138e61cc4c80dbb61ee194756f825e2f1e70d37095b9239b3fdf78f9d892b93ad30085e6a
   languageName: node
   linkType: hard
 
